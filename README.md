@@ -34,6 +34,7 @@ The **Dewey Decimal Classification** was chosen (this system is used  in 200,000
 
 ![alt text](img/01-ERR.jpg)
 
+* "**Transaction**" and "**cascade**" deleting are used to deal correctly with data in **CRUD** (**C**reate, **R**ead, **U**pdate and **D**elete operations).
 
 ## How it Works?
 
