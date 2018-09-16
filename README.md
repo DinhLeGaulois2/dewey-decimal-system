@@ -1,5 +1,4 @@
 # Document's Summaries & Quizzes Using Dewey Decimal System
----
 
 ## Aim
 > * To build a system which allows us to make summaries of a documents (**courses**, **books**, etc.) and to build **quizzes** for each chapter.
@@ -58,13 +57,15 @@ In "**reading**" mode, only formatted text could be displayed (no more "ugly" HT
 
 ![alt text](img/05-ShowParagraphs.jpg)
 
----
 
 ## What Kind of Quizzes Could We Have?
 There are several type of "quiz":
    - **Memorization** (no proposed answer)
    - **Flashcard** (one proposed answer)
    - **MCQ** (2 or more proposed answers)
+
+## What are advantages of this architecture?
+**React-Redux** allows us to deal easily with complex form (for this app, the most complex form could have more than 20 fields). The use of "***virtual DOM***" by **React** gives us a faster speed comparing with frameworks using directly the real DOM). But "**Redux**" gives us the possibilities to deal with JSON objects which is extremely easy to understand, and any component could modify - from any where - the values in the "**store**". We don't need to know - for a given component - where it is in the hierarchy of the structure. That's why, from anywhere, we could navigate to any point of the path to the **root** right the way. 
 
 ---------------
 
