@@ -65,3 +65,9 @@ There are several type of "quiz":
    - **Memorization** (no proposed answer)
    - **Flashcard** (one proposed answer)
    - **MCQ** (2 or more proposed answers)
+
+---------------
+
+## Author
+* Dinh HUYNH - All Rights Reserved!
+* dinh.hu19@yahoo.com
