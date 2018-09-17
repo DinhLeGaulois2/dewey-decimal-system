@@ -64,6 +64,12 @@ Insertion a new question (with it proposed answers):
 
 ![alt text](img/06-addQuestion.jpg)
 
+### Intuitive Navigation
+
+Links allow to reach a given point right the way:
+ 
+![alt text](img/07-IntuitiveNavigation.jpg)
+
 
 ## What Kind of Quizzes Could We Have?
 There are several type of "quiz":
