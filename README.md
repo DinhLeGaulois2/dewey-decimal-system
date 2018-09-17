@@ -44,7 +44,7 @@ From the main **user interface**, we could add new document (by clicking on "**A
 
 ![alt text](img/01-AddDoc.jpg)
 
-the added document will look like (we have just one document for now):
+the added document will look like (we have two documents for now):
 
 ![alt text](img/02-Documents.jpg)
 
