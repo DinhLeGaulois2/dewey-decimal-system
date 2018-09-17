@@ -20,14 +20,14 @@ A **3-tier architecture** with **authentication** (**JWT** + **Passport**) is us
 >   * **Passport** (for its **strategies**)
 >
 > ### Front-End
-> * **React-Redux** architecture.
+> * **React-Redux**
 >
 > ### Back-end
-> * **Express/NodeJS**
+> * **Express/NodeJS** and **Sequelize**  is used as **ORM**
 >
 > ### Database
 >
-> * A **Relational Database** is needed, and MySQL was chosen. For now, the project has **74 tables**, well-normalized (**Sequelize** is used as **ORM**):
+> * A **Relational Database** is needed, and MySQL was chosen. For now, the project has **74 tables**, well-normalized:
 
 
 ![alt text](img/01-ERR.jpg)
