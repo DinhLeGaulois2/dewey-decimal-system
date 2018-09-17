@@ -18,9 +18,9 @@
 * Could be used by a small organization (with a little more tables to manage the "**authoriration**") by putting the ***server*** and the ***database*** on a **cloud** (**AWS**, for example). Everything is ready - from the conception - for the deployment on **clouds** (**server** and **database** could be on two different systems without problem).
 * A school or a teacher: the tests (**quizzes**) could be recorded on the database with all results of every question. So, he (she) could make survey of progression of students (and giving grades)
 * For student, **quizzes** could be used very efficiently: 
-*   - for **MCQ**, the proposed answers are mixed randomly every times to avoid to learn by position instead of by analyzing
-*   - **quizzes** could be played with only wrong answers from previously taken tests (or with every question)
-*   - Regrouping all **quizzes** to train for an exam 
+   - for **MCQ**, the proposed answers are mixed randomly every times to avoid to learn by position instead of by analyzing
+   - **quizzes** could be played with only wrong answers from previously taken tests (or with every question)
+   - Regrouping all **quizzes** to train for an exam 
 
 ---
 
