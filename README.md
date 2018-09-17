@@ -34,7 +34,7 @@ The **Dewey Decimal Classification** was chosen (this system is used  in 200,000
 
 ![alt text](img/01-ERR.jpg)
 
-Almost all fields are deleted because they are create with Sequelize which has different ways of declaring fields (for example, "**String**" - 256 characters - instead of "**varchar**). All **ALL** of ***id*** are UUIDv4 instead of **int**, etc.
+Almost all fields are deleted because they are going to be created with ***Sequelize*** which has different ways of declaring fields (for example, "**String**" - 256 characters - instead of "**varchar**). All **ALL** of ***id*** are UUIDv4 instead of **int**, etc.
 
 * "**Transaction**" and "**cascade**" deleting are used to deal correctly with data in **CRUD** (**C**reate, **R**ead, **U**pdate and **D**elete operations).
 
