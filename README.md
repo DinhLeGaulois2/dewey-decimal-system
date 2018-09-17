@@ -50,10 +50,6 @@ The chapters could be added by the same procedure (after a document was choosing
 
 ![alt text](img/03-Chapters.jpg)
 
-Insertion a new question (with it proposed answers): 
-
-![alt text](img/06-addQuestion.jpg)
-
 As well as for the paragraphs. We could write paragraph's content using HTML's tags (which has to pass the "**sanitizing**'s" process) for the formatting. Maybe an editor could be added later...
 
 ![alt text](img/04-AddParagraph.jpg)
@@ -61,6 +57,10 @@ As well as for the paragraphs. We could write paragraph's content using HTML's t
 In "**reading**" mode, only formatted text could be displayed (no more "ugly" HTML's tags).
 
 ![alt text](img/05-ShowParagraphs.jpg)
+
+Insertion a new question (with it proposed answers): 
+
+![alt text](img/06-addQuestion.jpg)
 
 
 ## What Kind of Quizzes Could We Have?
