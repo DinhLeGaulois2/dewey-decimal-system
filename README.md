@@ -10,11 +10,15 @@
 >     - By **author**
 >     - etc. 
 
+---
+
 ## What Classification System to Use?
 
 The **Dewey Decimal Classification** was chosen (this system is used  in 200,000 libraries in at least 135 countries.) The classification's notation makes use of three-digit Arabic numerals for main classes, with fractional decimals allowing expansion for further detail. Using Arabic numerals for symbols, it is flexible to the degree that numbers can be expanded in linear fashion to cover special aspects of general subjects. The Decimal Classification introduced the concepts of relative location and relative index which allow new books to be added to a library in their appropriate location based on subject. An overview from the main User Interface:
 
 ![alt text](img/00-MainUI.jpg)
+
+---
 
 ## What are Tools to Use?
 
@@ -38,6 +42,8 @@ The **Dewey Decimal Classification** was chosen (this system is used  in 200,000
 Almost all fields are deleted because they are going to be created with ***Sequelize*** which has different ways of declaring fields (for example, "**String**" - 256 characters - instead of "**varchar**"). All **ALL** of ***id*** are **UUIDv4** instead of **int**, etc.
 
 * "**Transaction**" and "**cascade**" deleting are used to deal correctly with data in **CRUD** (**C**reate, **R**ead, **U**pdate and **D**elete operations).
+
+---
 
 ## How it Works?
 
@@ -71,6 +77,7 @@ Links allow to reach a given point right the way:
  
 ![alt text](img/07-IntuitiveNavigation.jpg)
 
+---
 
 ## What Kind of Quizzes Could We Have?
 There are several type of "quiz":
@@ -85,7 +92,7 @@ This is a **3-tier architecture**, each "***tier***" is independent from the oth
 
 **React-Redux** offers reliability and very high speed of execution. As soon as we click on a link, the result appears instantaneously (however, with a distance **server** and a distance **database**, the latency must be much more important). But, as we make request for very few data each time, the speed should be very fast in any case.
 
----------------
+---
 
 ## Author
 * Dinh HUYNH - All Rights Reserved!
