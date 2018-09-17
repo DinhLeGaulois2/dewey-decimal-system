@@ -18,6 +18,7 @@ The **Dewey Decimal Classification** was chosen (this system is used  in 200,000
 
 ## What are Tools to Use?
 
+```
 ### Authentication
    * **JWT**
    * **Passport** (for its **strategies**)
@@ -31,6 +32,7 @@ The **Dewey Decimal Classification** was chosen (this system is used  in 200,000
 ### Database
 
 * A **Relational Database** is needed, and MySQL was chosen. For now, the project has **74 tables**, well-normalized (**Sequelize** is used as **ORM**):
+```
 
 ![alt text](img/01-ERR.jpg)
 
