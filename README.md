@@ -65,6 +65,10 @@ The **Dewey Decimal Classification** was chosen (this system is used  in 200,000
 
 ## How it Works?
 
+We need to **signin** (or **signup** first). To do so, we get a "**Token**" (JWT) and an ***UserID*** for the session (on the ***client*** side, never, the real ***UserID*** the one on the ***database*** will be transfert): 
+
+![alt text](img/02-signin.jpg)
+
 From the main **user interface**, we could add new document (by clicking on "**Add New**")
 
 ![alt text](img/01-AddDoc.jpg)
