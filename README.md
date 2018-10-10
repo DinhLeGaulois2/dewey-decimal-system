@@ -73,7 +73,7 @@ From the main **user interface**, we could add new document (by clicking on "**A
 
 ![alt text](img/01-AddDoc.jpg)
 
-the added document will look like (we have two documents for now):
+the added documents will look like (we have two documents for now):
 
 ![alt text](img/02-Documents.jpg)
 
@@ -81,7 +81,7 @@ The chapters could be added by the same procedure (after a document was choosing
 
 ![alt text](img/03-Chapters.jpg)
 
-As well as for the paragraphs. We could write paragraph's content using HTML's tags (which has to pass the "**sanitizing**'s" process) for the formatting. Maybe an editor could be added later...
+As well as for the sections (each could have one or several paragraphs). We could write paragraphs' content using HTML's tags (which has to pass the "**sanitizing**'s" process) for the formatting. Maybe an editor could be added later...
 
 ![alt text](img/04-AddParagraph.jpg)
 
