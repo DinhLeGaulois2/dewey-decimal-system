@@ -15,7 +15,7 @@
 ## Who Could Be Insterested on Using This Project?
 
 * Any individual wishing to **build**, **organize** (**classify**) his (her) documents in a system which could be use for years (SQL) with a total control of the whole system (3-tier).
-* Could be used by a small organization (with a little more tables to manage the "**authoriration**") by putting the ***server*** and the ***database*** on a **cloud** (**AWS**, for example). Everything is ready - from the conception - for the deployment on **clouds** (**server** and **database** could be on two different systems without problem).
+* Could be used by a small organization (with a little more tables to manage the "**authorization**") by putting the ***server*** and the ***database*** on a **cloud** (**AWS**, for example). Everything is ready - from the conception - for the deployment on **clouds** (**server** and **database** could be on two different systems without problem).
 * A school or a teacher: the tests (**quizzes**) could be recorded on the database with all results of every question. So, he (she) could make survey of progression of students (and giving grades)
 * For student, **quizzes** could be used very efficiently: 
    - for **MCQ**, the proposed answers are mixed randomly every times to avoid to learn by position instead of by analyzing
