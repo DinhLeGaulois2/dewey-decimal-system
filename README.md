@@ -39,7 +39,7 @@ A **3-tier architecture** with **authentication** (**JWT** + **Passport**) is us
 >
 > ### Database (91 tables)
 >
-> A **Relational Database** is needed, and MySQL was chosen. For now, the project has **91 tables**, well-normalized (this ERR was created using **MySql WorkBench** to give us a global view and also the relationship between tables). Almost all fields are deleted because they are going to be created with ***Sequelize*** which has different ways of declaring fields (for example, "**String**" - 256 characters - instead of "**varchar**"). All **ALL** of ***id*** are **UUIDv4** instead of **int**, etc. "**Transaction**" and "**cascade**" deleting are used to deal correctly with data in **CRUD** (**C**reate, **R**ead, **U**pdate and **D**elete operations).:
+> A **Relational Database** is needed, and MySQL was chosen. For now, the project has **91 tables**, well-normalized. This ERR was created using **MySQL WorkBench** to give us a global view and also the relationship between tables. Almost all fields are deleted because they are going to be created with ***Sequelize*** which has different ways of declaring fields (for example, "**String**" - 256 characters - instead of "**varchar**"). All **ALL** of ***id*** are **UUIDv4** instead of **int**, etc. "**Transaction**" and "**cascade**" deleting are used to deal correctly with data in **CRUD** (**C**reate, **R**ead, **U**pdate and **D**elete operations).:
 
 
 ![alt text](img/01-ERR.jpg)
