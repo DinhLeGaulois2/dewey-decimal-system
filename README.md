@@ -93,6 +93,10 @@ Insertion a new question (with it proposed answers):
 
 ![alt text](img/06-addQuestion.jpg)
 
+Playing Quiz (showing question and its proposed answers): 
+
+![alt text](img/Playing-Quiz.jpg)
+
 ### Intuitive Navigation
 
 Links allow to reach a given point right the way:
