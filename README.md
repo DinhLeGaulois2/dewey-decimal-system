@@ -45,7 +45,6 @@ A **3-tier architecture** with **authentication** (**JWT** + **Passport**) is us
 > A **Relational Database** is needed, and MySQL was chosen. For now, the project has **96 tables**, well-normalized. This ERR was created using **MySQL WorkBench** to give us a global view and also the relationship between tables. ALL ***id*** are **UUIDv4** instead of **int**, etc. "**Transaction**" and "**cascade**" deleting are used to deal correctly with data in **CRUD** (**C**reate, **R**ead, **U**pdate and **D**elete operations).:
 
 ![alt text](img/01-ERR.jpg)
-(the schema above has only 91 tables, now it has 96, but the idea is there...)
 
 ---
 
