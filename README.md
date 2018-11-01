@@ -15,7 +15,7 @@
 ## Who Could Be Insterested on Using This Project?
 * Anyone could use this app to build documentation for any project (or grouping several projects under a same ***root*** project), for example, I could create:
 
-> React-Redux (with content: text and/quiz)
+> + React-Redux (with content: text and/quiz)
 >     |_ Dewey Decimal System (with content: text and/or quiz)
 >     |     |_ client (with content: text and/or quiz)
 >     |     |     |_ actions (with content: text and/or quiz)
