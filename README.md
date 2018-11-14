@@ -18,6 +18,7 @@
 ![alt text](img/project_doc.jpg)
 
 ### Example
+There are 5 sub-structures under "***Chapter 1***". The displaying node ("***Chapter 1-1-1-2***") contains 2 sub-nodes ("***Chapter 1-1-1-1-2-1***" and "***Chapter 1-1-1-1-2-2***"):
 
 ![alt text](img/tree-structure.jpg)
      
