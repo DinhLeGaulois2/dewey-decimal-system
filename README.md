@@ -1,4 +1,4 @@
--# Document's Summaries & Quizzes Using Dewey Decimal System
+# Document's Summaries & Quizzes Using Dewey Decimal System
 
 ## Aim
 > * To build a system which allows us to make summaries of a documents (**courses**, **books**, etc.) and to build **quizzes** for each chapter.
